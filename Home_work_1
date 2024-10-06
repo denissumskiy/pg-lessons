@@ -1,0 +1,8 @@
+# Домашняя работа 1
+- PostgreSQL - инстанс развернут в docker - контейнере.
+- Вывод команды: select count(*) from book.tickets;
+  thai=# select count(*) from book.tickets;
+  count  
+---------
+ 5185505
+(1 row)
